@@ -15,7 +15,7 @@ My passion lies in helping teams **achieve agility through technical excellence,
 
 ## 🔭 Projects
 
-- 🧱 [**hitchhub**](https://github.com/hitchhubio/hitchhub) — open-source **design system** and component framework built with React, Tailwind, and Storybook.  
+- 🧱 [**hitchhub**](https://github.com/hitchhubio/hitchhub) (WIP) — open-source **design system** and component framework built with React, Tailwind, and Storybook.  
 - ⚙️ [**Achieve agilty open source**](https://github.com/achieveagility) — a collection of **Node.js and frontend utilities** that support agile teams and engineering practices.  
 - 💡 [**DevDigital**](https://github.com/devdigital) — legacy open-source projects in .NET and JavaScript, reflecting my early career in backend and architecture.  
   
