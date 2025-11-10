@@ -32,5 +32,5 @@ I believe the best teams balance **quality, adaptability, and empathy** — buil
 
 ### 🌐 Find Me Elsewhere
 
-- [🌍 Website](https://ianlovell.cc)
+- [🌍 Website](https://ianlovell.co.uk)
 - [💼 LinkedIn](https://linkedin.com/in/ian-lovell)
