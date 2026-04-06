@@ -1,17 +1,18 @@
 # Hi there 👋
 
-**Product Delivery · Engineering · Agility Enthusiast**  
+**Technical Lead · Scalable Platforms · Architecture, Delivery & Design Systems**
 
-I’m an experienced software engineer focused on building **scalable, accessible, and maintainable frontends** using React, TypeScript, and Node.  
+I’m a Tech Lead focused on building **scalable, maintainable systems** and helping teams deliver **meaningful outcomes**. 
 
 My passion lies in helping teams **achieve agility through technical excellence, communication, and collaboration**.
 
 ## 🧩 What I Do
 
-- **Frontend architecture** – React, TypeScript, Next.js, Storybook, and design systems  
-- **Backend & APIs** – Node.js, GraphQL, REST, and serverless cloud integration  
-- **Developer experience** – tooling, documentation, and CI pipelines that scale  
-- **Agile delivery** – Scrum, Kanban, XP, and flow-based continuous improvement  
+- Define and evolve architecture across web, backend, and platform systems  
+- Lead technical decisions, tradeoffs, and long-term direction  
+- Break down complex initiatives into clear, deliverable work  
+- Align engineering, product, and design around measurable outcomes  
+- Improve development practices across testing, DX, and delivery  
 
 ## 🔭 Projects
 
@@ -21,16 +22,12 @@ My passion lies in helping teams **achieve agility through technical excellence,
   
 ## 🛠️ Tech Focus
 
-`React` · `TypeScript` · `Node.js` · `Next.js` · `Tailwind` · `Design Systems`  
-`Serverless` · `AWS` · `Testing` · `Agile Delivery`
+`React` · `TypeScript` · `Next.js` · `Node.js`  
+`Design Systems` · `APIs` · `Platform Architecture`  
+`Serverless` · `Testing` · `CI/CD` · `Cloud` · `Agile Delivery`
 
 ## 🧠 Values
 
 > *"Achieving agility through communication, collaboration, and technical excellence."*
 
 I believe the best teams balance **quality, adaptability, and empathy** — building software people can rely on and enjoy working with.
-
-### 🌐 Find Me Elsewhere
-
-- [🌍 Website](https://ianlovell.co.uk)
-- [💼 LinkedIn](https://linkedin.com/in/ian-lovell)
