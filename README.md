@@ -1,6 +1,6 @@
 # Ian Lovell
 
-**Technical Lead · Scalable Platforms · Architecture, Delivery & Design Systems**
+**Technical Lead · Delivery · Architecture · Platform Engineering · Design Systems**
 
 I lead complex product and technical initiatives from discovery through delivery, combining hands-on engineering with architecture, shared platforms and cross-functional coordination.
 
