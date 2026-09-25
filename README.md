@@ -1,33 +1,33 @@
-# Hi there 👋
+# Ian Lovell
 
 **Technical Lead · Scalable Platforms · Architecture, Delivery & Design Systems**
 
-I’m a Tech Lead focused on building **scalable, maintainable systems** and helping teams deliver **meaningful outcomes**. 
+I lead complex product and technical initiatives from discovery through delivery, combining hands-on engineering with architecture, shared platforms and cross-functional coordination.
 
-My passion lies in helping teams **achieve agility through technical excellence, communication, and collaboration**.
+My work spans design systems, internal tools, data platforms, systems integration and engineering practices. I care about creating the technical foundations and shared understanding that help teams deliver reliable software.
 
-## 🧩 What I Do
+## What I Do
 
-- Define and evolve architecture across web, backend, and platform systems  
-- Lead technical decisions, tradeoffs, and long-term direction  
-- Break down complex initiatives into clear, deliverable work  
-- Align engineering, product, and design around measurable outcomes  
-- Improve development practices across testing, DX, and delivery  
+- Lead technical discovery, architecture decisions and delivery planning
+- Design shared platforms, design systems and reusable engineering foundations
+- Turn ambiguous business requirements into clear, deliverable work
+- Coordinate dependencies across engineering, product, design and operations
+- Improve developer experience, testing, release processes and technical standards
 
-## 🔭 Projects
+## Projects
 
-- 🧱 [**hitchhub**](https://github.com/hitchhubio/hitchhub) (WIP), open-source **design system** and component framework built with React, Tailwind, and Storybook.  
-- ⚙️ [**Achieve agilty open source**](https://github.com/achieveagility), a collection of **Node.js and frontend utilities** that support agile teams and engineering practices.  
-- 💡 [**DevDigital**](https://github.com/devdigital), legacy open-source projects in .NET and JavaScript, reflecting my early career in backend and architecture.  
-  
-## 🛠️ Tech Focus
+- [**HitchHub**](https://github.com/hitchhubio/hitchhub) - an open-source, token-driven React design system exploring semantic tokens, accessibility and scalable component architecture
+- [**Achieve agility**](https://github.com/achieveagility) - writing and open-source tools focused on effective software delivery and engineering practices
+- [**DevDigital**](https://github.com/devdigital) - earlier open-source work across JavaScript, Node.js and .NET
 
-`React` · `TypeScript` · `Next.js` · `Node.js`  
-`Design Systems` · `APIs` · `Platform Architecture`  
-`Serverless` · `Testing` · `CI/CD` · `Cloud` · `Agile Delivery`
+## Technical Focus
 
-## 🧠 Values
+`React` · `TypeScript` · `TanStack` · `Node.js` · `Design Systems`  
+`Platform Architecture` · `APIs & Integrations` · `Data Platforms`  
+`AWS` · `Testing` · `CI/CD` · `Developer Experience`
 
-> *"Achieving agility through communication, collaboration, and technical excellence."*
+## How I Work
 
-I believe the best teams balance **quality, adaptability, and empathy**, building software people can rely on and enjoy working with.
+I believe teams achieve agility through communication, collaboration and technical excellence.
+
+That requires psychological safety: people need to feel able to question assumptions, surface risks, admit uncertainty and learn from mistakes. I aim to create those conditions while encouraging shared ownership, pragmatic decision-making and sustainable engineering practices.
